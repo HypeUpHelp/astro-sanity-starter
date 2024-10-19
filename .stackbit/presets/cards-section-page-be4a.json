@@ -1,0 +1,114 @@
+{
+    "model": "cardsSection",
+    "srcType": "sanity",
+    "srcProjectId": "1lm0jb56:production",
+    "presets": [
+        {
+            "label": "Page",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Page"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "heading": "Why choose us?",
+                "body": "Experience the Future of Business with Our Cutting-Edge AI Solutions.\n",
+                "items": [
+                    {
+                        "$$type": "card",
+                        "badge": {
+                            "$$type": "badge",
+                            "label": "PERFORMANCE",
+                            "theme": "accent"
+                        },
+                        "heading": "NEXT-LEVEL Gaming experience",
+                        "body": "At **AI Company**, we pride ourselves on leveraging the latest advancements in **artificial intelligence** and **machine learning**. Our research and development team is constantly innovating to bring you cutting-edge solutions that keep you ahead of the competition.\n",
+                        "cta": [
+                            {
+                                "$$type": "actionLink",
+                                "label": "Learn more",
+                                "url": "/",
+                                "ariaLabel": null
+                            }
+                        ],
+                        "image": {
+                            "$$type": "customImage",
+                            "image": {
+                                "$$ref": "image-738bd4c74451236169ced4c49094b140ed4e207c-860x460-jpg",
+                                "$$type": "__asset_model"
+                            },
+                            "alt": "Alt text for the image"
+                        },
+                        "theme": null,
+                        "textAlign": null,
+                        "hasBorder": true
+                    },
+                    {
+                        "$$type": "card",
+                        "badge": {
+                            "$$type": "badge",
+                            "label": "EXPAND",
+                            "theme": "primary"
+                        },
+                        "heading": "Great Support",
+                        "body": "Our support has:\nFriendly **HUMANS**\n\nUnderstanding, and professional\n\n\nand a great response time\n",
+                        "cta": [
+                            {
+                                "$$type": "actionLink",
+                                "label": "Learn more",
+                                "url": "/",
+                                "ariaLabel": null
+                            }
+                        ],
+                        "image": {
+                            "$$type": "customImage",
+                            "image": {
+                                "$$ref": "image-f1026fcdccde3485090d05b0bab00cb486b85e13-860x460-jpg",
+                                "$$type": "__asset_model"
+                            },
+                            "alt": "Alt text for the image"
+                        },
+                        "theme": null,
+                        "textAlign": null,
+                        "hasBorder": true
+                    },
+                    {
+                        "$$type": "card",
+                        "badge": {
+                            "$$type": "badge",
+                            "label": "EMPOWER",
+                            "theme": "secondary"
+                        },
+                        "heading": "The BEST* Games Development Company",
+                        "body": "We're HYPE. Group, a NEXT LEVEL GAME COMPANY,\n\n\\*we're not legally allowed to say it but we sure will soon!\n",
+                        "cta": [
+                            {
+                                "$$type": "actionLink",
+                                "label": "Learn more",
+                                "url": "/",
+                                "ariaLabel": null
+                            }
+                        ],
+                        "image": {
+                            "$$type": "customImage",
+                            "image": {
+                                "$$ref": "image-10d4766279c02579a966a64d5637621d06b45a8e-860x460-jpg",
+                                "$$type": "__asset_model"
+                            },
+                            "alt": "Alt text for the image"
+                        },
+                        "theme": null,
+                        "textAlign": null,
+                        "hasBorder": true
+                    }
+                ],
+                "theme": null,
+                "backgroundImage": null,
+                "width": null,
+                "columns": null
+            }
+        }
+    ]
+}
