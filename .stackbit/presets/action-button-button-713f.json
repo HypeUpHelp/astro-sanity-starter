@@ -1,0 +1,23 @@
+{
+    "model": "actionButton",
+    "srcType": "sanity",
+    "srcProjectId": "1lm0jb56:production",
+    "presets": [
+        {
+            "label": "Button",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Button"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "label": "Find our group",
+                "url": "/",
+                "ariaLabel": null,
+                "theme": "primary"
+            }
+        }
+    ]
+}
